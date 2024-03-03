@@ -1,0 +1,15 @@
+C:\Users\Dell\Desktop\Repos\MyDotnet\bin\Debug\net8.0\MyDotnet.exe
+C:\Users\Dell\Desktop\Repos\MyDotnet\bin\Debug\net8.0\MyDotnet.deps.json
+C:\Users\Dell\Desktop\Repos\MyDotnet\bin\Debug\net8.0\MyDotnet.runtimeconfig.json
+C:\Users\Dell\Desktop\Repos\MyDotnet\bin\Debug\net8.0\MyDotnet.dll
+C:\Users\Dell\Desktop\Repos\MyDotnet\bin\Debug\net8.0\MyDotnet.pdb
+C:\Users\Dell\Desktop\Repos\MyDotnet\obj\Debug\net8.0\MyDotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\Repos\MyDotnet\obj\Debug\net8.0\MyDotnet.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\Repos\MyDotnet\obj\Debug\net8.0\MyDotnet.AssemblyInfo.cs
+C:\Users\Dell\Desktop\Repos\MyDotnet\obj\Debug\net8.0\MyDotnet.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Repos\MyDotnet\obj\Debug\net8.0\MyDotnet.sourcelink.json
+C:\Users\Dell\Desktop\Repos\MyDotnet\obj\Debug\net8.0\MyDotnet.dll
+C:\Users\Dell\Desktop\Repos\MyDotnet\obj\Debug\net8.0\refint\MyDotnet.dll
+C:\Users\Dell\Desktop\Repos\MyDotnet\obj\Debug\net8.0\MyDotnet.pdb
+C:\Users\Dell\Desktop\Repos\MyDotnet\obj\Debug\net8.0\MyDotnet.genruntimeconfig.cache
+C:\Users\Dell\Desktop\Repos\MyDotnet\obj\Debug\net8.0\ref\MyDotnet.dll
