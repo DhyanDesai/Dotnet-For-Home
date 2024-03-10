@@ -1,5 +1,5 @@
 using System.Collections;
-namespace Name
+namespace MyDotnet
 {
     class Hashtableex
     {
@@ -13,6 +13,14 @@ namespace Name
             foreach (DictionaryEntry item in ht1)
             {
                 System.Console.WriteLine($"Key: {item.Key},Value:{item.Value}");
+            }
+
+            Hashtable ht2 = new Hashtable(){
+                {"PID","45,18,7"},{"PName","Rohit,Virat,MS"},{"Team","India,India,India"}
+            };
+            foreach (DictionaryEntry a in ht2)
+            {
+                System.Console.WriteLine($"Key:{a.Key} Value:{a.Value}");
             }
         }
     }
