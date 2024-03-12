@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MyDotnet
-build_property.ProjectDir = C:\Users\Dell\Desktop\Repos\MyDotnet\
+build_property.ProjectDir = C:\Users\Dell\Desktop\Repos\MyDotnet\MyDotnet\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
